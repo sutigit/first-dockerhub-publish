@@ -30,3 +30,7 @@ If not found, install [node](https://nodejs.org/en/download/package-manager).
 4. Install server: `npm install -g server`
 
 5. Run the app: `serve -s dist -l 3000`
+
+## App is live at
+
+https://sutigit-first-containerized-prod.onrender.com/
